@@ -2,7 +2,7 @@
 //  WeatherTCAAppUITests.swift
 //  WeatherTCAAppUITests
 //
-//  Created by MasayaNakakuki on 2025/09/01.
+//  Created by _ on 2025/09/01.
 //
 
 import XCTest
